@@ -1,2 +1,2 @@
 # Demonstracija
-Primer repozitorija za demonstrativne namene
+Ta repozitorij je za namen prikaza delovanja Githuba.
