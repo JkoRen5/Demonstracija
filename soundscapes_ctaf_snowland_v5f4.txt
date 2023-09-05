@@ -1,0 +1,1644 @@
+"amusement.outdoors_quiet"
+{
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+
+}
+
+"amusement.indoors_quiet"{
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+// Need 11 duplicates for songs ================================================
+
+"amusement.outdoors_1"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\wham_lastchristmas.mp3"
+		//Used to be hungrylikethewolf
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_1"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\wham_lastchristmas.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+"amusement.outdoors_2"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\chrisrea_drivinghome.mp3"
+		//Used to be crocodilechop
+ 	}
+	
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_2"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\chrisrea_drivinghome.mp3"
+ 	}
+	
+
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+
+"amusement.outdoors_3"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\cole_christmassong.mp3"
+		//Used to be galosengen
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_3"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"   "#snowpark\cole_christmassong.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+"amusement.outdoors_4"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\deanmartin_whitechristmas.mp3"
+		//Used to be ineedyourlove
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_4"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"   "#snowpark\deanmartin_whitechristmas.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+"amusement.outdoors_5"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"   "#snowpark\franksinatra_haveyourself.mp3"
+		//Used to be the less i hear
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_5"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\franksinatra_haveyourself.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+"amusement.outdoors_6"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\bobbyhelms_jinglebellrock.mp3"
+		//Used to be bust a groove
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_6"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\bobbyhelms_jinglebellrock.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+"amusement.outdoors_7"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\franksinatra_letitsnow.mp3"
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_7"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\franksinatra_letitsnow.mp3"
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+
+"amusement.outdoors_8"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\franksinatra_santaclausiscoming.mp3"
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_8"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\franksinatra_santaclausiscoming.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+"amusement.outdoors_9"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\dustbowl.mp3"
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_9"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\dustbowl.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+"amusement.outdoors_10"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\annakarwan_whattheworldneeds.mp3"
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_10"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\annakarwan_whattheworldneeds.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+
+"amusement.outdoors_11"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\crackcupcake_letitsnow.mp3"
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_11"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\crackcupcake_letitsnow.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+
+"amusement.outdoors_12"
+{
+	
+	"playlooping"
+	{
+		"volume" "1"
+		"pitch" "100"
+		"wave"  "#snowpark\soulja_alliwant.mp3"
+ 	}
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+}
+
+"amusement.indoors_12"{
+
+	"playlooping"
+	{
+		"volume" "0.8"
+		"pitch" "100"
+		"wave"  "#snowpark\soulja_alliwant.mp3"
+ 	}
+	
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	// Computers
+	"playlooping"
+	{
+		"position"	"1"
+		
+		"volume"	".5"
+		"pitch"		"70"
+		"wave"		"ambient\computer_working2_blue.wav"
+	}
+	
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+	
+	"playlooping"
+	{
+		"position" "5"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+// SONGS OVER ==================================================================
+
+"amusement.indoors_spawn"
+{
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"125"
+		"wave"		"ambient\windwinterinside.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"70"
+		"wave"		"ambient\indoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\destiny_carol.mp3"
+	}
+}
+
+"amusement.indoors_glass"
+{
+	"playlooping"
+	{
+		"volume" "0.3"
+		"pitch" "100"
+		"wave"  "#snowpark\destiny_spirits.mp3"
+ 	}
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".5"
+		"pitch" "60"
+		"wave" "ambient\energy\force_field_loop1.wav"
+	}
+}
+
+
+"amusement.horror"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#burgopark\the_wedding.mp3"
+	}
+	
+	
+	"playrandom"
+	{
+		"time"		"6,20"
+		"volume"	"0.1,0.40"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient\crow1.wav"
+			"wave"		"ambient\crow3.wav"
+		}
+	}
+	
+	
+	// Working sounds
+	
+	"playrandom"
+	{
+		"time"		"10,30"
+		"volume"	"0.2,0.40"
+		"pitch"		"80"
+		"rndwave"
+		{
+			"wave"		"ambient\halloween\mysterious_perc_04.wav"
+			"wave"		"ambient\halloween\mysterious_perc_06.wav"
+			"wave"		"ambient\halloween\mysterious_perc_07.wav"
+			"wave"		"ambient\halloween\mysterious_perc_11.wav"
+			"wave"		"ambient\halloween\mysterious_perc_12.wav"
+			"wave"		"ambient\halloween\mysterious_perc_16.wav"
+			"wave"		"ambient\hallow07.wav"
+			"wave"		"ambient\hallow08.wav"
+
+		}
+	}
+}
+
+
+"amusement.horror_outdoor"
+{
+	
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"pitch"		"100"
+		"wave"		"#burgopark\the_wedding.mp3"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"125"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playrandom"
+	{
+		"time"		"6,20"
+		"volume"	"0.1,0.40"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient\crow1.wav"
+			"wave"		"ambient\crow3.wav"
+		}
+	}
+	
+	
+	// Working sounds
+	
+	"playrandom"
+	{
+		"time"		"10,30"
+		"volume"	"0.2,0.40"
+		"pitch"		"80"
+		"rndwave"
+		{
+			"wave"		"ambient\halloween\mysterious_perc_04.wav"
+			"wave"		"ambient\halloween\mysterious_perc_06.wav"
+			"wave"		"ambient\halloween\mysterious_perc_07.wav"
+			"wave"		"ambient\halloween\mysterious_perc_11.wav"
+			"wave"		"ambient\halloween\mysterious_perc_12.wav"
+			"wave"		"ambient\halloween\mysterious_perc_16.wav"
+			"wave"		"ambient\hallow07.wav"
+			"wave"		"ambient\hallow08.wav"
+
+		}
+	}
+}
+
+"amusement.horror_finale"
+{
+	
+	
+	"playlooping"
+	{
+		"volume" "0.4"
+		"pitch"  "80"
+		"wave"   "ambient\underground.wav"
+	}
+}
+
+"amusement.outdoors_cafe"
+{
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\destiny_dawning.mp3"
+	}
+	
+	
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".8"
+		"pitch"		"125"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+}
+
+"amusement.outdoors_general"
+{
+
+ 
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\destiny_spirits.mp3"
+	}
+	
+	
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".3"
+		"pitch"		"125"
+		"wave"		"ambient\windwinter.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+}
+
+
+// UNDERGROUND STUFF ================================================================
+
+"amusement.sewer_arena"
+{
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"pitch"		"60"
+		"wave"		"ambient\lair\jungle_underground2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\cboyardee_islam_loop.wav"
+	}
+	
+	// Jumppad
+	"playlooping"
+	{
+		"position" "4"
+		"volume" ".4"
+		"pitch" "60"
+		"wave" "ambient\generator.wav"
+	}
+}
+
+"amusement.sewer_general"
+{
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"pitch"		"100"
+		"wave"		"ambient\lair\cap_3_vista_tone.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\cboyardee_islam_loop.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"pitch"		"60"
+		"wave"		"ambient\underground.wav"
+	}
+
+	// Generators
+	"playlooping"
+	{
+		"position"  "1"
+		"volume"	"0.8"
+		"pitch"		"100"
+		"wave"		"ambient\lair\electric_box_hum.wav"
+	}
+
+	// Turbines
+	"playlooping"
+	{
+		"position" "2"
+		"volume" "1"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+	
+	// Machinery
+	"playlooping"
+	{
+		"position" "3"
+		"volume" "1"
+		"pitch" "100"
+		"wave" "ambient\lair\cap_2_boiler_smooth1.wav"
+	}
+}
+
+"amusement.sewer_vents"
+{
+
+	"playlooping"
+	{
+		"volume"	"0.9"
+		"pitch"		"90"
+		"wave"		"ambient\lair\cap_3_duct_tone.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\cboyardee_islam_loop.wav"
+	}
+	
+	// Computer core
+	"playlooping"
+	{
+		"position"	"1"
+		"volume"	"0.6"
+		"pitch"		"100"
+		"wave" "ambient\lair\cap_3_inside_computer_bank1.wav"
+	}
+	
+	// Big fan
+	"playlooping"
+	{
+		"position" "2"
+		"volume" "0.9"
+		"pitch" "70"
+		"wave" "ambient\lair\cap_2_fan.wav"
+	}
+}
+
+"amusement.sewer_special"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\cboyardee_chup_loop.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume" "0.3"
+		"pitch"  "100"
+		"wave"   "ambient\lair\jungle_underground.wav"
+	}
+}
+
+"amusement.sewer_hall"
+{
+	
+	"playlooping"
+	{
+		"volume"	"0.9"
+		"pitch"		"60"
+		"wave"		"ambient\lair\jungle_underground2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\cboyardee_islam_loop.wav"
+	}
+
+	// Turbines
+	"playlooping"
+	{
+		"position" "2"
+		"volume" "0.8"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+	"playlooping"
+	{
+		"position" "3"
+		"volume" "0.8"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+	"playlooping"
+	{
+		"position" "4"
+		"volume" "0.8"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+	"playlooping"
+	{
+		"position" "5"
+		"volume" "0.8"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+	"playlooping"
+	{
+		"position" "6"
+		"volume" "0.8"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+	"playlooping"
+	{
+		"position" "7"
+		"volume" "0.8"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+	"playlooping"
+	{
+		"position" "1"
+		"volume" "0.8"
+		"pitch" "100"
+		"wave" "ambient\turbine6.wav"
+	}
+}
+
+// Special soundscapes
+
+"amusement.sympcorridor"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\destiny_plan.mp3"
+	}
+	
+	
+	
+	
+	"playlooping"
+	{
+		"volume" "0.3"
+		"pitch"  "90"
+		"wave"   "ambient\atmosphere\corridor.wav"
+	}
+	
+	"playrandom"
+	{
+		"position"  "1"
+		"time"		"6,20"
+		"volume"	"0.1,0.40"
+		"pitch"		"60, 90"
+		"rndwave"
+		{
+			"wave"		"ambient\creak01.wav"
+			"wave"		"ambient\creak02.wav"
+			"wave"		"ambient\creak03.wav"
+
+		}
+	}
+	
+	"playrandom"
+	{
+		"position" "2"
+		"time"		"5"
+		"volume"	"0.5,0.5"
+		"pitch"		"80, 90"
+		"rndwave"
+		{
+			"wave"		"ambient\halloween\mysterious_perc_11.wav"
+			"wave"		"ambient\halloween\mysterious_perc_15.wav"
+			"wave"		"ambient\halloween\mysterious_perc_14.wav"
+			"wave"		"ambient\halloween\mysterious_perc_16.wav"
+			"wave"		"ambient\halloween\mysterious_perc_9.wav"
+
+		}
+	}
+}
+
+"amusement.sympbridge"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\destiny_plan.mp3"
+	}
+	
+	
+	"playlooping"
+	{
+		"volume" "0.3"
+		"pitch"  "80"
+		"wave"   "ambient\atmosphere\underground.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume" "0.7"
+		"pitch"  "90"
+		"wave"   "ambient\atmosphere\corridor.wav"
+	}
+	
+	"playrandom"
+	{
+		"position"  "1"
+		"time"		"6,20"
+		"volume"	"0.1,0.40"
+		"pitch"		"60, 90"
+		"rndwave"
+		{
+			"wave"		"ambient\creak01.wav"
+			"wave"		"ambient\creak02.wav"
+			"wave"		"ambient\creak03.wav"
+
+		}
+	}
+	
+	"playrandom"
+	{
+		"position" "2"
+		"time"		"7"
+		"volume"	"0.5,0.5"
+		"pitch"		"80, 90"
+		"rndwave"
+		{
+			"wave"		"ambient\halloween\mysterious_perc_11.wav"
+			"wave"		"ambient\halloween\mysterious_perc_15.wav"
+			"wave"		"ambient\halloween\mysterious_perc_14.wav"
+			"wave"		"ambient\halloween\mysterious_perc_16.wav"
+
+		}
+	}
+}
+
+"amusement.sympgarden"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\destiny_plan.mp3"
+	}
+	
+	"playlooping"
+	{
+		"volume" "0.3"
+		"pitch"  "80"
+		"wave" "ambient\windwinter.wav"
+	}
+	
+	
+	
+	
+	"playrandom"
+	{
+		"position" "2"
+		"time"		"7"
+		"volume"	"0,0.1"
+		"pitch"		"80, 90"
+		"rndwave"
+		{
+			"wave"		"ambient\halloween\mysterious_perc_11.wav"
+			"wave"		"ambient\halloween\mysterious_perc_15.wav"
+			"wave"		"ambient\halloween\mysterious_perc_14.wav"
+			"wave"		"ambient\halloween\mysterious_perc_16.wav"
+
+		}
+	}
+}
+
+"amusement.sympgardenwin"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#snowpark\destiny_deepstone.mp3"
+	}
+	
+	"playlooping"
+	{
+		"volume" "0.3"
+		"pitch"  "80"
+		"wave" "ambient\windwinter.wav"
+	}
+	
+	
+	
+	
+}

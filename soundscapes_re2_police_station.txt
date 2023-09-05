@@ -1,0 +1,55 @@
+"resident.mainhall"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#residentevil\the_front_hall_f.mp3"
+	}
+	
+}
+"resident.floors"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#residentevil\first_floor_f.mp3"
+	}
+	
+}
+"resident.basement"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#residentevil\basement_f.mp3"
+	}
+	
+}
+"resident.saferoom"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#residentevil\secure_place_f.mp3"
+	}
+	
+}
+"resident.credits"
+{
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#residentevil\credit_line_f.mp3"
+	}
+	
+}
