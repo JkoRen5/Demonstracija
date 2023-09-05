@@ -11,7 +11,7 @@
 	{
 		"volume"	".4"
 		"pitch"		"100"
-		"wave"		"ambient\windwinter.wav"
+		"wave"		"ambient\wind1.wav"
 		"wave"      "ambient\outdoors.wav"
 	}
 	

@@ -24,7 +24,6 @@
 		{
 			"wave"		"ambient\bird1.wav"
 			"wave"		"ambient\bird2.wav"
-			"wave"		"ambient\bird3.wav"
 			"wave"		"ambient\crow1.wav"
 			"wave"		"ambient\crow3.wav"
 
