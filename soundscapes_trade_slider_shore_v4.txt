@@ -10,12 +10,6 @@
 		"wave"		"ambient\water\lake_water.wav"
 	}
 	
-	"playlooping"
-	{
-		"volume"	"0.5"
-		"pitch"		"100"
-		"wave"		"ambient/outdoors.wav"
-	}
 	
 	"playrandom"
 	{

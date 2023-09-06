@@ -9,6 +9,19 @@
 	}
 	
 }
+
+"resident.secondhall"
+{
+	
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"pitch"		"100"
+		"wave"		"#residentevil\the_front_hall_f.mp3"
+	}
+	
+}
+
 "resident.floors"
 {
 	
