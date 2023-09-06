@@ -1,0 +1,42 @@
+"general.outdoors_quiet"
+{
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"125"
+		"wave"		"ambient\forest_life.wav"
+		"wave"      "ambient\outdoors.wav"
+	}
+	
+	"playrandom"
+	{
+		"time"		"6,20"
+		"volume"	"0.1,0.40"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient\bird1.wav"
+			"wave"		"ambient\bird2.wav"
+			"wave"		"ambient\crow1.wav"
+			"wave"		"ambient\crow3.wav"
+
+		}
+	}
+	
+	// Fountains
+	"playlooping"
+	{
+		"volume"	".8"
+		"pitch"		"110"
+		"wave"		"ambient\water\water_flow_loop1.wav"
+		
+		"position"	"2"
+	}
+}
