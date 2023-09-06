@@ -66,5 +66,5 @@
 		"pitch"		"100"
 		"wave"		"#residentevil\credit_line_f.mp3"
 	}
-	
+	skibidi
 }
