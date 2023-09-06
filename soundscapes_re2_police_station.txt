@@ -12,7 +12,12 @@
 
 "resident.secondhall"
 {
-	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"#residentevil\side_room.mp3"
+	}
 	
 	
 }
@@ -31,11 +36,12 @@
 "resident.basement"
 {
 	
+	
 	"playlooping"
 	{
-		"volume"	"1"
-		"pitch"		"100"
-		"wave"		"#residentevil\basement_f.mp3"
+		"volume"	"0.3"
+		"pitch"		"80"
+		"wave"		"ambient\water_leak.mp3"
 	}
 	
 }
