@@ -14,6 +14,8 @@
 		"wave"		"ambient\wind1.wav"
 		"wave"      "ambient\outdoors.wav"
 	}
+
+// To je komentar
 	
 
 }
